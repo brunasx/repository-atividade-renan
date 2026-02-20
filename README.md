@@ -1,2 +1,2 @@
-# repository-atividade-renan-AEO
+# repository-js
 repositorio para estudo futuro.
