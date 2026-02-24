@@ -4,4 +4,3 @@ let = prompt("Escolha um produto:")
 
 
 alert("o preco da banana é R$20")
-
