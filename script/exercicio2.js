@@ -1,6 +1,8 @@
-//1. Peça ao usuário o nome de um produto e o preço. Mostre uma mensagem dizendo quanto custa o produto.
+//Peça o comprimento e a largura de um terreno. Calcule e mostre a quantidade de metros quadrados.     
 
-let = prompt("Escolha um produto:")
+const comprimento = Number(prompt("Digite o comprimento da forma:"))
+const largura = Number(prompt("Digite a largura da forma:"))
 
+const resultado = (comprimento * largura )
 
-alert("o preco da banana é R$20")
+alert("A quantidade de metros2 é: " + resultado)
